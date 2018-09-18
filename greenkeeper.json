@@ -1,0 +1,15 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "build-packages/build-utils/package.json",
+        "package.json",
+        "packages/cli/package.json",
+        "packages/gen-readmes/package.json",
+        "packages/openapi/package.json",
+        "packages/storybook-addon-knobify/package.json",
+        "packages/types/package.json"
+      ]
+    }
+  }
+}
