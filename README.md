@@ -1,2 +1,1 @@
-# extract-types
-Determines the types used in an array of values
+byexample has been moved here: https://github.com/PatrickShaw/monorepo
